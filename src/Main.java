@@ -5,7 +5,7 @@ import java.net.http.HttpResponse;
 import java.util.List;
 import java.util.Map;
 
-public class App {
+public class Main {
     public static void main(String[] args) throws Exception {
 
         // fazer uma conexão  HTTP e buscar os top 250 filmes
